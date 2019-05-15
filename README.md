@@ -10,6 +10,9 @@
       - https://www.kaggle.com/emir75/noaa-ghcn-data-read  
 - https://github.com/topics/noaa?o=asc&s=updated
 - https://github.com/topics/noaa?o=asc&s=updated
+
+### ML
+- https://github.com/kingburrito666/NOAA-Sea-lion-Machine-Learning/blob/master/Train%20Using%20Karas.ipynb
     
 
 
