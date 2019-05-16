@@ -21,6 +21,10 @@
 - https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets
 - https://www.ncdc.noaa.gov/ghcn-daily-description
 - https://www.ncdc.noaa.gov/data-access/land-based-station-data
+
+### MAPS
+- https://nbviewer.jupyter.org/github/python-visualization/
+- https://nbviewer.jupyter.org/github/python-visualization/folium_contrib/tree/master/notebooks/
     
 
 
