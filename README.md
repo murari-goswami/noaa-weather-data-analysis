@@ -13,6 +13,14 @@
 
 ### ML
 - https://github.com/kingburrito666/NOAA-Sea-lion-Machine-Learning/blob/master/Train%20Using%20Karas.ipynb
+
+### Videos
+- https://www.youtube.com/watch?v=Pc1HofRH_mg
+
+### Other interesting datasets
+- https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets
+- https://www.ncdc.noaa.gov/ghcn-daily-description
+- https://www.ncdc.noaa.gov/data-access/land-based-station-data
     
 
 
