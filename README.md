@@ -25,6 +25,7 @@
 ### MAPS
 - https://nbviewer.jupyter.org/github/python-visualization/
 - https://nbviewer.jupyter.org/github/python-visualization/folium_contrib/tree/master/notebooks/
+- https://github.com/mapbox/mapboxgl-jupyter
     
 
 
