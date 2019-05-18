@@ -26,6 +26,9 @@
 - https://nbviewer.jupyter.org/github/python-visualization/
 - https://nbviewer.jupyter.org/github/python-visualization/folium_contrib/tree/master/notebooks/
 - https://github.com/mapbox/mapboxgl-jupyter
+- https://nbviewer.jupyter.org/github/mapbox/mapboxgl-jupyter/blob/master/examples/notebooks/point-viz-types-example.ipynb
+- https://www.timajwilliams.com/maps-in-jupyter-notebook/
+- https://www.youtube.com/watch?v=i40d8-Hu4vM
     
 
 
