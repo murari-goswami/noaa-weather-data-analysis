@@ -30,8 +30,6 @@
 - https://www.timajwilliams.com/maps-in-jupyter-notebook/
 - https://www.youtube.com/watch?v=i40d8-Hu4vM
     
-
-
 ##### Folium
 - folium.TileLayer('cartodbdark_matter').add_to(my_map)  
 - https://towardsdatascience.com/around-the-world-with-anthony-bourdain-a-folium-tutorial-7e9ad63fb650  
@@ -39,3 +37,6 @@
 #### Keppler
 - https://medium.com/vis-gl/mapping-the-parisian-trees-6dc30f6aabc7
 
+#### Additional data source to merge with
+- Sunrise, Sunsent and other day details
+    - https://sunrise-sunset.org/api
