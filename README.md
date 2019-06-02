@@ -29,6 +29,9 @@
 - https://nbviewer.jupyter.org/github/mapbox/mapboxgl-jupyter/blob/master/examples/notebooks/point-viz-types-example.ipynb
 - https://www.timajwilliams.com/maps-in-jupyter-notebook/
 - https://www.youtube.com/watch?v=i40d8-Hu4vM
+#####
+- Google Maps
+      - https://stackoverflow.com/questions/47312961/how-to-create-a-google-map-in-jupyter-notebook-using-latitude-and-longitude
     
 ##### Folium
 - folium.TileLayer('cartodbdark_matter').add_to(my_map)  
